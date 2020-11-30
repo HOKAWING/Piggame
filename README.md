@@ -5,7 +5,7 @@
 
 technical line: <br>
 app.js:
-1. <br>
+1. 
     //innerHTML能编辑HTML，textContent只能编辑纯文本。 <br>
     // document.querySelector("#current-" + activePlayer).innerHTML = '<em>' + dice +'</em>'; <br>
 2. <br>
