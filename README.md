@@ -4,9 +4,7 @@
 <img src="/image/pic1.png" width="900px" /> <br>
 
 technical line: 
-
 app.js: 
-
 1. 
 
     //innerHTML能编辑HTML，textContent只能编辑纯文本。
