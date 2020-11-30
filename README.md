@@ -9,8 +9,8 @@ app.js:
 
 1. 
 
-    //innerHTML能编辑HTML，textContent只能编辑纯文本。 <br>
-    // document.querySelector("#current-" + activePlayer).innerHTML = '<em>' + dice +'</em>'; <br>
+    //innerHTML能编辑HTML，textContent只能编辑纯文本。
+    // document.querySelector("#current-" + activePlayer).innerHTML = '<em>' + dice +'</em>';
 2. 
 
     //undefined, 0 , null , ""  are coerced to false, anything else is coerced to ture. <br>
