@@ -13,8 +13,8 @@ app.js:
     // document.querySelector("#current-" + activePlayer).innerHTML = '<em>' + dice +'</em>';
 2. 
 
-    //undefined, 0 , null , ""  are coerced to false, anything else is coerced to ture. <br>
-    if(input){ <br>
+    //undefined, 0 , null , ""  are coerced to false, anything else is coerced to ture. 
+    if(input){
 
 
 素材来自于网站
